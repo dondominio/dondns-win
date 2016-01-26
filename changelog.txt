@@ -1,0 +1,7 @@
+Version 1.0
+
+This is the new complete version for the DonDNS Windows client. With this new version:
+
+- We have a new GUI, it adapts to the version of the Windows you have installed.
+- Now the app allows you to update up to 1000 hosts from up to 20 different DonDominio/MrDomain profiles.
+- It runs in the background, and auto/starts on you session start.
