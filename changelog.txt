@@ -1,3 +1,10 @@
+Version 1.0.2
+
+- Bugfix autoupdare application
+- Bugfix DonDNS request URL
+- Optimization
+
+
 Version 1.0
 
 This is the new complete version for the DonDNS Windows client. With this new version:
