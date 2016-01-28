@@ -1,5 +1,8 @@
-Version 1.0.2
+Version 1.0.3
+- Bugfix on showing notifications when deactivated
+- Small improvements and optimization
 
+Version 1.0.2
 - Bugfix autoupdate application
 - Bugfix DonDNS request URL
 - Optimization
