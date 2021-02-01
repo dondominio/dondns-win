@@ -1,3 +1,7 @@
+Version 1.1.0
+- Adaptation for operation with TLS 1.2
+- New code signing certificate
+
 Version 1.0.3
 - Bugfix on showing notifications when deactivated
 - Small improvements and optimization
