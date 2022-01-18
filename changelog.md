@@ -1,3 +1,6 @@
+Version 1.1.1
+- Adaptation for operation with TLS 1.3
+
 Version 1.1.0
 - Adaptation for operation with TLS 1.2
 - New code signing certificate
