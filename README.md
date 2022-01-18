@@ -5,4 +5,4 @@
 
 More information in DonDominio/MrDomain [Developer portal](https://dev.dondominio.com/dondns/docs/windows/).
 
-For changelog, check the [file in GitHub](https://github.com/dondominio/dondns-win/blob/master/changelog.txt).
+For changelog, check the [file in GitHub](https://github.com/dondominio/dondns-win/blob/master/changelog.md).
